@@ -173,3 +173,6 @@ The aforementioned approach of measuring Bitcoin’s supply is purely based on f
 ##### [4] &nbsp;&nbsp;&nbsp;&nbsp; Kevin Schellinger – [Understanding Bitcoin’s 21 Million Coins](https://medium.com/@k_schellinger/understanding-bitcoins-21-million-limit-310297a7d962)
 ##### [5] &nbsp;&nbsp;&nbsp;&nbsp; ndsvw – [Bitcoin-Supply-Calculator](https://github.com/ndsvw/Bitcoin-Supply-Calculator)
 ##### [6] &nbsp;&nbsp;&nbsp;&nbsp; PlanB – [Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
+
+## Donate
+[donate.pyzhyk.org](https://donate.pyzhyk.org)
