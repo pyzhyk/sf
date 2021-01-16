@@ -175,4 +175,6 @@ The aforementioned approach of measuring Bitcoin’s supply is purely based on f
 ##### [6] &nbsp;&nbsp;&nbsp;&nbsp; PlanB – [Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
 
 ## Donate
-[donate.pyzhyk.org](https://donate.pyzhyk.org)
+![](https://pyzhyk.org/img/14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY-256.png)
+
+BTC [14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY](bitcoin:14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY)
